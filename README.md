@@ -1,42 +1,38 @@
 # Other
 - 通达信目录   <如果重装到一个新位置，只需将整个T0002拷贝过去就可以了,所有的个性化数据都在此目录下>
-    -T0002
-      -[blocknew] 板块目录
-      -[cache] 系统数据高速缓存
-      -[zst_cache] 分时图数据高速缓存
-      -[coolinfo] 系统备忘录目录
-      -[Invest] 个人理财数据目录
-      -[PAD] 定制版面存盘文件
-      -[diary]投资日志目录
+    
+        -T0002
+            -[blocknew] 板块目录
+            -[cache] 系统数据高速缓存
+            -[zst_cache] 分时图数据高速缓存
+            -[coolinfo] 系统备忘录目录
+            -[Invest] 个人理财数据目录
+            -[PAD] 定制版面存盘文件
+            -[diary]投资日志目录
             
-      Advhq.dat 星空图相关个性化数据
-      Block.cfg 板块设置文件
-      cbset.dat 筹码分析个性化数据
-      CoolInfo.Txt 系统备忘录
-      Line.dat 画线工具数据
-      MyFavZX.dat 资讯收藏夹数据
-      newmodem.ini 交易客户端个性化数据
-      padinfo.dat 定制版面个性化数据
-      PriCS.dat,PriGS.dat,PriText.dat 公式相关数据
-      recentsearch.dat 最近资讯搜索数据
-      Scheme.dat 配色方案
-      tmptdx.css 临时网页CSS文件
-      user.ini 全局个性化数据
-      userfx.dat K线图个性化数据
-      mark.dat 标识信息的存盘文件
+            Advhq.dat 星空图相关个性化数据
+            Block.cfg 板块设置文件
+            cbset.dat 筹码分析个性化数据
+            CoolInfo.Txt 系统备忘录
+            Line.dat 画线工具数据
+            MyFavZX.dat 资讯收藏夹数据
+            newmodem.ini 交易客户端个性化数据
+            padinfo.dat 定制版面个性化数据
+            PriCS.dat,PriGS.dat,PriText.dat 公式相关数据
+            recentsearch.dat 最近资讯搜索数据
+            Scheme.dat 配色方案
+            tmptdx.css 临时网页CSS文件
+            user.ini 全局个性化数据
+            userfx.dat K线图个性化数据
+            mark.dat 标识信息的存盘文件
   
-  
-        
-        以下文件与设置的预警信息有关：
-      Col_warn.dat
-      Col_warn_self.dat
-      Col_warn2.dat
-      Colwarn3.dat 行情栏目和预警个性化数据
-      ColwarnTj.dat
-
-
-
-
+          
+            以下文件与设置的预警信息有关：
+            Col_warn.dat
+            Col_warn_self.dat
+            Col_warn2.dat
+            Colwarn3.dat 行情栏目和预警个性化数据
+            ColwarnTj.dat
 
             通达信软件的指标模板如何导出？
             通达信目录下T0002/pad目录中，随你拷贝或复制或者
